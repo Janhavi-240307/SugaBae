@@ -47,5 +47,4 @@ Live Demo: https://sugabae.onrender.com
 
 - Render
 
-## Project Structure
 
