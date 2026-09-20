@@ -1,22 +1,51 @@
 #  SugaBae – Food Delivery Website  
 
-A responsive dessert delivery web app built with HTML, CSS, JavaScript, and powered by a Node.js backend.  
-It includes a dynamic menu (from JSON), shopping cart, mobile navigation, customer reviews carousel, and more.  
+# SugaBae
 
+SugaBae is a responsive dessert delivery website designed to provide an interactive online ordering experience.
 
- Features  
-- **Modern UI/UX** – Sweet & responsive design for all devices.  
--  **Dynamic Menu** – Products fetched from `products.json`.  
--  **Cart System** – Add/remove items, update quantities, auto-update total.  
--  **Checkout Simulation** – Mimics real food ordering flow.  
--  **Mobile Menu & Navigation** – Hamburger toggle for smaller screens.  
--  **Customer Reviews Carousel** – Powered by Swiper.js.  
--  **Newsletter Subscription** – Simple subscription section.  
--  **Custom Styling** – Pastel dessert-themed UI with CSS variables.  
+## Live Demo
 
- Tech Stack  
-- **Frontend**: HTML5, CSS3, JavaScript, Swiper.js, FontAwesome  
-- **Backend**: Node.js (Express.js)  
-- **Data**: JSON file for product details  
-- **Server**: `server.js` (serves static files + product API)  
+SugaBae is deployed on Render and available online.
+Live Demo: https://sugabae.onrender.com
+
+## Features
+
+- Responsive dessert delivery website
+- Dynamic product menu
+- Shopping cart functionality
+- Increase/decrease product quantity
+- Automatic cart total calculation
+- Prevents duplicate products in cart
+- Responsive mobile navigation
+- Interactive Swiper.js review slider
+- Customer reviews section
+- Newsletter subscription section
+- JSON-based product data
+- Responsive design for desktop, tablet, and mobile
+
+## Tech Stack
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Swiper.js
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Data
+
+- JSON
+
+### Deployment
+
+- Render
+
+## Project Structure
 
